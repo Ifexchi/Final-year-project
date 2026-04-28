@@ -1,33 +1,29 @@
-# Intelligent Conversational Chatbot for MTN Customer Service
+# Intelligent Conversational Chatbot for Customer Service
 
-## Project Overview
-This project focuses on the development of an intelligent conversational chatbot designed to improve customer service efficiency by automating responses to user queries.
-
-## Objective
-To build a chatbot system capable of handling customer inquiries using Natural Language Processing (NLP), reducing response time and improving service delivery.
-
-## Features
-- Automated customer response system
-- Natural language processing for query understanding
-- 24/7 availability
-- Improved customer support efficiency
+## Overview
+This project is a mobile-based chatbot system designed to automate customer service interactions using Natural Language Processing and Dialogflow AI.
 
 ## Technologies Used
-- Python
-- Natural Language Processing (NLP)
-- Machine Learning (if applicable)
-- Flask / Django (if used)
+- Flutter (Dart)
+- Dialogflow (Google Cloud NLP)
+- Python (Data preprocessing)
 
-## My Role
-I was responsible for the design and development of the chatbot system, including implementing the conversational logic and integrating NLP techniques.
+## Features
+- Text chatbot interaction
+- Voice-enabled communication
+- AI intent recognition
+- Customer service automation
+
+## System Structure
+- Mobile app built with Flutter
+- AI backend using Dialogflow
+- Python scripts for dataset preparation
+
+## Contribution
+- Developed chatbot mobile application
+- Integrated Dialogflow API for AI responses
+- Implemented voice and text interaction system
+- Built dataset preprocessing pipeline
 
 ## Outcome
-The system demonstrates how AI can improve customer service operations by reducing workload on human agents and providing instant responses.
-
-## How to Run
-1. Install required dependencies
-2. Run the main Python script
-3. Start interacting with the chatbot
-
-## Author
-Chioma Jessica Nzekwesi 
+The project demonstrates how AI can improve customer service efficiency through automated conversation systems.
